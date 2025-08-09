@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STM32L010K8T6TR
-D Ultra-low-power value line Arm Cortex-M0+ MCU with 64-Kbytes of Flash memory, 32 MHz CPU
-K
-F https://www.st.com/resource/en/datasheet/stm32l010k8.pdf
-$ENDCMP
-#
-#End Doc Library

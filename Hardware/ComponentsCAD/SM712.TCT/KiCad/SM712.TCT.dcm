@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SM712.TCT
-D 12V TVS Diode Array, Asymmetrical RS-485 Semtech SM712.TCT, Bi-Directional TVS Diode Array Dual, 26V, 400W, 3-Pin SOT-23
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-30/DSA-588511.pdf
-$ENDCMP
-#
-#End Doc Library
