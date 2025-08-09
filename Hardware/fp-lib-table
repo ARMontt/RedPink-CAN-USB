@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "RedPinkAzuriBoard")(type "KiCad")(uri "${KIPRJMOD}/RedPinkAzuriBoard.pretty")(options "")(descr ""))
+  (lib (name "RedPink_STM32C09_Board")(type "KiCad")(uri "${KIPRJMOD}/RedPink_STM32C09_Board.pretty")(options "")(descr ""))
 )
