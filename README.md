@@ -1,6 +1,6 @@
 # RedPink-CAN-USB
 
-Mini PCB for STM32L4, useful for general purposes that involves mostly communication through a CANBUS to USB. This board helps to simplify development of industrial devices that requires CANBUS communication. 
+Mini PCB for STM32C09, useful for general purposes that involves mostly communication through a CANBUS to USB. This board helps to simplify development of industrial devices that requires CANBUS communication. 
 
 ## Motivation
 
