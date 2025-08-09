@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L9616-TR
+D Automotive High Speed Can Bus Transceiver
+K
+F https://www.st.com/resource/en/datasheet/l9616.pdf
+$ENDCMP
+#
+#End Doc Library

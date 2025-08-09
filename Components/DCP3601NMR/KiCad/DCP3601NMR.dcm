@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DCP3601NMR
+D 88% typical efficiency at 600 mA load (VIN = 24 V, VOUT = 5 V)  91% typical efficiency at 600 mA load (VIN = 12 V, VOUT = 5 V)  3.3 V to 36 V input operating voltage range  Up to 1 A output current capability  110 uA input quiescent current  1 MHz fixed switching frequency  Synchronous rectification  Internal compensation network  Peak current mode control  Two different versions: LCM for high efficiency at light loads and LNM for noise-sensitive applications  Output overvoltage protect
+K
+F https://www.st.com/resource/en/datasheet/dcp3601.pdf
+$ENDCMP
+#
+#End Doc Library

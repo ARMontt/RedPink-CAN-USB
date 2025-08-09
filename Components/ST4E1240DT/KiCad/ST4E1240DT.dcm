@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST4E1240DT
+D High-speed 3.3 V / 5 V RS485 transceiver with &#177; 12 kV IEC 61000-4-2 contact ESD protection
+K
+F https://www.st.com/resource/en/datasheet/st4e1240.pdf
+$ENDCMP
+#
+#End Doc Library
