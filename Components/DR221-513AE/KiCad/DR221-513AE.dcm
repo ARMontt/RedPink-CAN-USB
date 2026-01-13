@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DR221-513AE
+D 50 uH Bourns DR221 Common Mode Choke
+K
+F https://www.bourns.com/docs/Product-Datasheets/dr221.pdf
+$ENDCMP
+#
+#End Doc Library
