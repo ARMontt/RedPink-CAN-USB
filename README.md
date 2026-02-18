@@ -5,3 +5,7 @@ Mini PCB for STM32C09, useful for general purposes that involves mostly communic
 ## Motivation
 
 Nowadays there are many CAN-USB or CAN-UART devices, that require external coding (usually in C) to test the communication, however, a more user-friendly interface accompanied by a simple CAN-USB device would improve the performance for developing new industrial devices.
+
+## Interactive BOM Viewer
+
+Please feel free to check the Layout and BOM in the following URL: https://armontt.github.io/RedPink-CAN-USB/ibom.html
